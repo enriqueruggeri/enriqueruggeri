@@ -13,7 +13,7 @@ Mi principal enfoque es la generación de valor sostenible para los negocios, a 
 Tengo competencias desarrolladas en visión estratégica, negociación, planificación, liderazgo y trabajo en equipo, además de una fuerte orientación a resultados.
 
  (https://www.linkedin.com/in/enrique-ruggeri/)
-
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-ruggeri/)
 
 No dudes en contactarme vía correo electrónico: enrique.ruggeri@gmail.com
 
