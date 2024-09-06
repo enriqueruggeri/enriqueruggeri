@@ -2,8 +2,7 @@
 
 ¡Hola! Soy Enrique Ruggeri, un apasionado de la Ciencia de Datos y el Machine Learning.
 
-Me encuentro finalizando mis estudios de Data Scientist en TripleTen Bootcamp, con el objetivo de aplicar mis conocimientos y habilidades en la resolución de problemas complejos y en la creación de soluciones innovadoras para el análisis de datos. 
-Aspiro a contribuir significativamente a la generación de valor en las empresas a través del uso de analítica avanzada y modelos de Machine Learning.
+Aspiro a contribuir significativamente a la generación de valor en las empresas a través del uso de analítica avanzada y modelos de Machine Learning, aplicando mis conocimientos y habilidades en la resolución de problemas complejos y en la creación de soluciones innovadoras.
 
 Cuento con más de 20 años de experiencia liderando áreas de Control de Gestión en diversas industrias como minería, construcción y servicios de ingeniería.  Destaco en el diseño, desarrollo e implementación de modelos de analítica avanzada, apoyado en mis sólidos conocimientos de programación en Python y SQL, así como en algoritmos de Machine Learning. 
 
