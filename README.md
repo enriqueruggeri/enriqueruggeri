@@ -11,10 +11,8 @@ A lo largo de mi carrera, he liderado la implementación de sistemas ERP y la au
 Mis competencias incluyen visión estratégica, negociación, liderazgo, planificación y trabajo en equipo, con una fuerte orientación a resultados, aplicadas en diversas industrias como minería, construcción y servicios de ingeniería.
 ![image](https://github.com/user-attachments/assets/166e47a1-5e8e-4bf4-aec2-94790601975a)
 
-
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-ruggeri/)
 
 No dudes en contactarme vía correo electrónico: enrique.ruggeri@gmail.com
-
 
 ![image](https://github.com/enriqueruggeri/enriqueruggeri/assets/160076100/9aaecdba-490f-4f9a-b2e0-3a29961f2a91)
