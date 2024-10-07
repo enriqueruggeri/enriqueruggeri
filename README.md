@@ -12,7 +12,5 @@ Mis competencias incluyen visión estratégica, negociación, liderazgo, planifi
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-ruggeri/)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-ruggeri/)
-
 No dudes en contactarme vía correo electrónico: enrique.ruggeri@gmail.com
 
