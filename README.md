@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-¡Hola! Soy Enrique Ruggeri, un apasionado de la Ciencia de Datos y el Machine Learning.
+## Hello! I'm Enrique Ruggeri, a passionate Data Science and Machine Learning enthusiast.
 
-Data Scientist con experiencia en el desarrollo de proyectos de análisis estadístico y Machine Learning. Sólidos conocimientos de programación en Python y SQL, y en la implementación de algoritmos de Machine Learning para resolver problemas complejos en distintos tipos de industrias.
+Data Scientist with experience in the development of statistical analysis and Machine Learning projects. Strong programming skills in Python and SQL, and expertise in implementing Machine Learning algorithms to solve complex problems across various industries.
 
-Estoy enfocado en generar valor mediante el uso de análisis avanzado de datos, desarrollando soluciones innovadoras que optimicen procesos y mejoren la productividad y la rentabilidad.
+I am focused on generating value through advanced data analysis, developing innovative solutions that optimize processes, improve productivity, and increase profitability.
 
-A lo largo de mi carrera, he liderado la implementación de sistemas ERP y la automatización de informes de gestión, generando mejoras significativas en la eficiencia operativa y toma de decisiones.
+Throughout my career, I have led the implementation of ERP systems and the automation of management reports, achieving significant improvements in operational efficiency and decision-making.
 
-Mis competencias incluyen visión estratégica, negociación, liderazgo, planificación y trabajo en equipo, con una fuerte orientación a resultados, aplicadas en diversas industrias como minería, construcción y servicios de ingeniería.
-
+My skills include strategic vision, negotiation, leadership, planning, and teamwork, with a strong results-oriented approach, applied across various industries such as mining, construction, and engineering services.
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-ruggeri/)
 
-No dudes en contactarme vía correo electrónico: enrique.ruggeri@gmail.com
+Feel free to contact me via email: enrique.ruggeri@gmail.com
 
